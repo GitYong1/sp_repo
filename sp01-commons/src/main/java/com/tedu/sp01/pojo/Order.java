@@ -6,7 +6,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-@Data
+@Data1
 @NoArgsConstructor
 @AllArgsConstructor
 public class Order {
